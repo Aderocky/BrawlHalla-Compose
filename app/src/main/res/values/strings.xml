@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BrawlHalla Hero</string>
+    <string name="fav_menu">Favorite Hero</string>
+    <string name="error">Unexpected Error</string>
+    <string name="name">Ade Rocky Saputra</string>
+    <string name="email">aderockysaputra@gmail.com</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_fav">Favorite</string>
+    <string name="Deskripsi">Deskripsi</string>
+    <string name="Kembali">Kembali</string>
+    <string name="search">Cari Hero Favorite Kamu</string>
+    <string name="menu_profile">Profile</string>
+    <string name="error_noitem">Tidak ada hero favorite</string>
+    <string name="error_nohero">Tidak ada hero </string>
+</resources>
